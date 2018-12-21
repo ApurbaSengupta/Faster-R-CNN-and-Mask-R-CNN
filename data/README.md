@@ -1,6 +1,6 @@
 Various data files to be loaded (all in .npy format)
 
-1. data1 to data10 - images containing cars and pedestrians in a random background
+1. data1 to data10 - images containing cars and pedestrians on a random background
 2. car_masks - ground truth masks for cars
 3. ppl_masks - ground truth masks for people
 4. labels - pixels probable to contain cars and/or people in each image (based on IoU values)
